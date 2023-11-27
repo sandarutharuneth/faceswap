@@ -1,5 +1,5 @@
 # Face Sawp with AI by [@Hillobar](https://github.com/Hillobar)
-The ultimate guide to getting started with AI face swapping technology in the comfort of your own PC or Laptop
+The ultimate guide to getting started with AI face swapping technology in the comfort of your own PC or Laptop (Nvidia GPU Cards Only!)
 
 > [!IMPORTANT]
 > Code is owned by [@Hillobar](https://github.com/Hillobar/Rope) and I've personally tested it myself, and it's completely safe to use. Please make sure you have an above 20 series graphics card to function with this software. Recommend **RTX 3050 Ti** or above.
